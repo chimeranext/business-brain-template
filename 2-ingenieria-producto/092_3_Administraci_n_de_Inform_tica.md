@@ -1,0 +1,24 @@
+---
+id: 2026110392
+title: Administraci n de Inform tica
+aliases: [3_Administraci_n_de_Inform_tica]
+type: area
+unidad: 2-ingenieria-producto
+para: area
+status: activo
+date: 2026-11-03
+tags: [ingenieria]
+sources: ["https://app.notion.com/p/2-3-Administraci-n-de-Inform-tica-1d0d9a10828643ae90165959f20e2b28"]
+---
+# Administraci n de Inform tica
+
+> Fuente: https://app.notion.com/p/2-3-Administraci-n-de-Inform-tica-1d0d9a10828643ae90165959f20e2b28
+
+# 2.3 Administración de Informática
+
+- [DB] Retrospectivas (Plantilla) (2) (0cf2aa8e-830e-45a8-936e-3af61b6e2a02)
+- [subpágina] Procedimientos (Plantilla) (2) (7596b03d-2a64-46b8-a67b-2766e9cfa909)
+- [subpágina] Políticas (Plantilla) (2) (63db8121-8b32-47d9-8ee7-c7bcbf944ab6)
+
+> [[2-ingenieria-producto/_MOC]]
+
