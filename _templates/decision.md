@@ -1,19 +1,16 @@
 ---
-id: {{date:YYYYMMDDHHmm}}
-title: 
-aliases: []
+$schema: https://holocron.so/frontmatter.json
+title: Decisión
+description: Plantilla reutilizable de decisión.
+id: 20261103_decisi-n
+aliases: [decisi-n]
 type: decision
-unidad: 
-para: project
+unidad: _templates
+para: resource
 status: activo
-date: {{date:YYYY-MM-DD}}
-tags: [decision]
-sources: []
+date: 2026-11-03
+tags: [decision,plantilla]
 ---
-# 
+# Decisión
 
-## Contexto
-## Decisión
-## Razones
-## Alternativas descartadas
-## Seguimiento
+_Plantilla: complete los campos._

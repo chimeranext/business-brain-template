@@ -1,0 +1,73 @@
+{
+  "$schema": "https://holocron.so/docs.json",
+  "name": "ChimeraNext Business Brain",
+  "description": "Internal handbook / business brain (Holocron + Obsidian dual format).",
+  "colors": {
+    "primary": "#6366f1"
+  },
+  "navigation": [
+    {
+      "group": "Gobernanza y Dirección",
+      "pages": [
+        "0-gerencia/cumplimiento-legal/index",
+        "0-gerencia/experimentaci-n-y-prototipado/index",
+        "0-gerencia/junta-directiva/index"
+      ]
+    },
+    {
+      "group": "Operaciones y Cadena de Suministro",
+      "pages": [
+        "1-operaciones/compras-de-suministros/index",
+        "1-operaciones/despacho/index",
+        "1-operaciones/despacho/devoluciones/index",
+        "1-operaciones/despacho/instalaci-n-en-sitio/index",
+        "1-operaciones/despacho/inventario-de-ventas/index",
+        "1-operaciones/despacho/log-stica-de-ltima-milla/index",
+        "1-operaciones/despacho/reparaciones/index",
+        "1-operaciones/gesti-n-integral-de-residuos-s-lidos/index",
+        "1-operaciones/manufactura-y-producci-n/index",
+        "1-operaciones/manufactura-y-producci-n/manufactura/index",
+        "1-operaciones/manufactura-y-producci-n/producci-n/index",
+        "1-operaciones/servicios-de-consultor-a/index",
+        "1-operaciones/servicios-de-consultor-a/consultor-a-1/index",
+        "1-operaciones/servicios-de-consultor-a/consultor-a-2/index",
+        "1-operaciones/servicios-de-consultor-a/consultor-a-3/index",
+        "1-operaciones/talento-humano/index"
+      ]
+    },
+    {
+      "group": "Tecnología e Informática",
+      "pages": [
+        "2-ingenieria-producto/administraci-n-de-inform-tica/index",
+        "2-ingenieria-producto/aplicaciones-para-uso-interno/index",
+        "2-ingenieria-producto/aplicaciones-para-usuarios-finales/index",
+        "2-ingenieria-producto/arquitectura-cloud/index"
+      ]
+    },
+    {
+      "group": "Comercial y Experiencia de Cliente",
+      "pages": [
+        "3-experiencia-cliente/identidad-auditiva/index",
+        "3-experiencia-cliente/identidad-gustativa/index",
+        "3-experiencia-cliente/identidad-ling-stica/index",
+        "3-experiencia-cliente/identidad-olfativa/index",
+        "3-experiencia-cliente/identidad-t-ctil/index",
+        "3-experiencia-cliente/identidad-visual/index",
+        "3-experiencia-cliente/marketing-y-comunicaci-n/index",
+        "3-experiencia-cliente/satisfacci-n-del-cliente/index",
+        "3-experiencia-cliente/ventas/index"
+      ]
+    },
+    {
+      "group": "Finanzas y Contabilidad",
+      "pages": [
+        "4-finanzas/contabilidad/index",
+        "4-finanzas/estados-financieros/index",
+        "4-finanzas/gesti-n-tributaria/index"
+      ]
+    }
+  ],
+  "layout": {
+    "mode": "compact"
+  }
+}

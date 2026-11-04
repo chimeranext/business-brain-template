@@ -1,14 +1,16 @@
 ---
-id: {{date:YYYYMMDDHHmm}}
-title: 
-aliases: []
+$schema: https://holocron.so/frontmatter.json
+title: Mapa de Contenido (MOC)
+description: Plantilla reutilizable de mapa de contenido (moc).
+id: 20261103_mapa-de-contenido-moc
+aliases: [mapa-de-contenido-moc]
 type: moc
-unidad: 
-para: area
+unidad: _templates
+para: resource
 status: activo
-date: {{date:YYYY-MM-DD}}
-tags: [moc]
+date: 2026-11-03
+tags: [moc,plantilla]
 ---
-# 
+# Mapa de Contenido (MOC)
 
-> Mapa de contenido de esta unidad.
+_Plantilla: complete los campos._

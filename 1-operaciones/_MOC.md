@@ -1,7 +1,8 @@
 ---
-id: 20261103moc
-title: 1-operaciones — Mapa de Contenido
-aliases: [1-operaciones-moc]
+$schema: https://holocron.so/frontmatter.json
+title: Operaciones y Cadena de Suministro — Mapa de Contenido
+id: 20261103_operaciones-y-cadena-de-
+aliases: [operaciones-y-cadena-de-suministro-mapa-de-contenido]
 type: moc
 unidad: 1-operaciones
 para: area
@@ -9,79 +10,23 @@ status: activo
 date: 2026-11-03
 tags: [moc]
 ---
-
-# 1-operaciones — MOC
+# Operaciones y Cadena de Suministro
 
 > Notas de esta unidad.
 
-- [[1-operaciones/009_1_Compras_de_Suministros]] — Compras de Suministros
-- [[1-operaciones/023_3_Despacho]] — Despacho
-- [[1-operaciones/024_3_Despacho]] — Despacho
-- [[1-operaciones/026_3_Despacho]] — Despacho
-- [[1-operaciones/028_3_Despacho]] — Despacho
-- [[1-operaciones/030_3_Despacho]] — Despacho
-- [[1-operaciones/032_3_Despacho]] — Despacho
-- [[1-operaciones/034_3_Despacho]] — Despacho
-- [[1-operaciones/036_3_Despacho]] — Despacho
-- [[1-operaciones/038_3_Despacho]] — Despacho
-- [[1-operaciones/040_3_Despacho]] — Despacho
-- [[1-operaciones/042_3_Despacho]] — Despacho
-- [[1-operaciones/044_3_Despacho]] — Despacho
-- [[1-operaciones/046_3_Despacho]] — Despacho
-- [[1-operaciones/048_3_Despacho]] — Despacho
-- [[1-operaciones/050_3_Despacho]] — Despacho
-- [[1-operaciones/052_3_Despacho]] — Despacho
-- [[1-operaciones/074_6_Gesti_n_Integral_de_Residuos_S_lidos]] — Gesti n Integral de Residuos S lidos
-- [[1-operaciones/076_6_Gesti_n_Integral_de_Residuos_S_lidos]] — Gesti n Integral de Residuos S lidos
-- [[1-operaciones/078_6_Gesti_n_Integral_de_Residuos_S_lidos]] — Gesti n Integral de Residuos S lidos
-- [[1-operaciones/010_2_Manufactura_y_Producci_n]] — Manufactura y Producci n
-- [[1-operaciones/011_2_Manufactura_y_Producci_n]] — Manufactura y Producci n
-- [[1-operaciones/013_2_Manufactura_y_Producci_n]] — Manufactura y Producci n
-- [[1-operaciones/015_2_Manufactura_y_Producci_n]] — Manufactura y Producci n
-- [[1-operaciones/017_2_Manufactura_y_Producci_n]] — Manufactura y Producci n
-- [[1-operaciones/019_2_Manufactura_y_Producci_n]] — Manufactura y Producci n
-- [[1-operaciones/021_2_Manufactura_y_Producci_n]] — Manufactura y Producci n
-- [[1-operaciones/012_Plantilla_de_Minuta]] — Plantilla de Minuta
-- [[1-operaciones/018_Plantilla_de_Minuta]] — Plantilla de Minuta
-- [[1-operaciones/025_Plantilla_de_Minuta]] — Plantilla de Minuta
-- [[1-operaciones/031_Plantilla_de_Minuta]] — Plantilla de Minuta
-- [[1-operaciones/037_Plantilla_de_Minuta]] — Plantilla de Minuta
-- [[1-operaciones/043_Plantilla_de_Minuta]] — Plantilla de Minuta
-- [[1-operaciones/049_Plantilla_de_Minuta]] — Plantilla de Minuta
-- [[1-operaciones/056_Plantilla_de_Minuta]] — Plantilla de Minuta
-- [[1-operaciones/062_Plantilla_de_Minuta]] — Plantilla de Minuta
-- [[1-operaciones/068_Plantilla_de_Minuta]] — Plantilla de Minuta
-- [[1-operaciones/075_Plantilla_de_Minuta]] — Plantilla de Minuta
-- [[1-operaciones/014_Plantilla_de_Pol_tica]] — Plantilla de Política
-- [[1-operaciones/020_Plantilla_de_Pol_tica]] — Plantilla de Política
-- [[1-operaciones/027_Plantilla_de_Pol_tica]] — Plantilla de Política
-- [[1-operaciones/033_Plantilla_de_Pol_tica]] — Plantilla de Política
-- [[1-operaciones/039_Plantilla_de_Pol_tica]] — Plantilla de Política
-- [[1-operaciones/045_Plantilla_de_Pol_tica]] — Plantilla de Política
-- [[1-operaciones/051_Plantilla_de_Pol_tica]] — Plantilla de Política
-- [[1-operaciones/058_Plantilla_de_Pol_tica]] — Plantilla de Política
-- [[1-operaciones/064_Plantilla_de_Pol_tica]] — Plantilla de Política
-- [[1-operaciones/070_Plantilla_de_Pol_tica]] — Plantilla de Política
-- [[1-operaciones/077_Plantilla_de_Pol_tica]] — Plantilla de Política
-- [[1-operaciones/016_Plantilla_de_Procedimiento]] — Plantilla de Procedimiento
-- [[1-operaciones/022_Plantilla_de_Procedimiento]] — Plantilla de Procedimiento
-- [[1-operaciones/029_Plantilla_de_Procedimiento]] — Plantilla de Procedimiento
-- [[1-operaciones/035_Plantilla_de_Procedimiento]] — Plantilla de Procedimiento
-- [[1-operaciones/041_Plantilla_de_Procedimiento]] — Plantilla de Procedimiento
-- [[1-operaciones/047_Plantilla_de_Procedimiento]] — Plantilla de Procedimiento
-- [[1-operaciones/053_Plantilla_de_Procedimiento]] — Plantilla de Procedimiento
-- [[1-operaciones/060_Plantilla_de_Procedimiento]] — Plantilla de Procedimiento
-- [[1-operaciones/066_Plantilla_de_Procedimiento]] — Plantilla de Procedimiento
-- [[1-operaciones/072_Plantilla_de_Procedimiento]] — Plantilla de Procedimiento
-- [[1-operaciones/079_Plantilla_de_Procedimiento]] — Plantilla de Procedimiento
-- [[1-operaciones/054_4_Servicios_de_Consultor_a]] — Servicios de Consultor a
-- [[1-operaciones/055_4_Servicios_de_Consultor_a]] — Servicios de Consultor a
-- [[1-operaciones/057_4_Servicios_de_Consultor_a]] — Servicios de Consultor a
-- [[1-operaciones/059_4_Servicios_de_Consultor_a]] — Servicios de Consultor a
-- [[1-operaciones/061_4_Servicios_de_Consultor_a]] — Servicios de Consultor a
-- [[1-operaciones/063_4_Servicios_de_Consultor_a]] — Servicios de Consultor a
-- [[1-operaciones/065_4_Servicios_de_Consultor_a]] — Servicios de Consultor a
-- [[1-operaciones/067_4_Servicios_de_Consultor_a]] — Servicios de Consultor a
-- [[1-operaciones/069_4_Servicios_de_Consultor_a]] — Servicios de Consultor a
-- [[1-operaciones/071_4_Servicios_de_Consultor_a]] — Servicios de Consultor a
-- [[1-operaciones/073_5_Talento_Humano]] — Talento Humano
+- [[1-operaciones/compras-de-suministros/index]] — Compras de Suministros
+- [[1-operaciones/despacho/index]] — Despacho
+    - [[1-operaciones/despacho/devoluciones/index]] — Devoluciones
+    - [[1-operaciones/despacho/instalaci-n-en-sitio/index]] — Instalación en Sitio
+    - [[1-operaciones/despacho/inventario-de-ventas/index]] — Inventario de Ventas
+    - [[1-operaciones/despacho/log-stica-de-ltima-milla/index]] — Logística de Última Milla
+    - [[1-operaciones/despacho/reparaciones/index]] — Reparaciones
+- [[1-operaciones/gesti-n-integral-de-residuos-s-lidos/index]] — Gestión Integral de Residuos Sólidos
+- [[1-operaciones/manufactura-y-producci-n/index]] — Manufactura y Producción
+    - [[1-operaciones/manufactura-y-producci-n/manufactura/index]] — Manufactura
+    - [[1-operaciones/manufactura-y-producci-n/producci-n/index]] — Producción
+- [[1-operaciones/servicios-de-consultor-a/index]] — Servicios de Consultoría
+    - [[1-operaciones/servicios-de-consultor-a/consultor-a-1/index]] — Consultoría 1
+    - [[1-operaciones/servicios-de-consultor-a/consultor-a-2/index]] — Consultoría 2
+    - [[1-operaciones/servicios-de-consultor-a/consultor-a-3/index]] — Consultoría 3
+- [[1-operaciones/talento-humano/index]] — Talento Humano
