@@ -24,9 +24,9 @@ sources: ["https://app.notion.com/p/1-2-2-Producci-n-d13325962ad4424fbf399f4648d
 
 ## Procesos relacionados
 
-- [Minuta](../../../_templates/minuta.md)
-- [Política](../../../_templates/politica.md)
-- [Procedimiento](../../../_templates/procedimiento.md)
+- [[_templates/minuta|Minuta]]
+- [[_templates/politica|Política]]
+- [[_templates/procedimiento|Procedimiento]]
 
 
 > [[1-operaciones/_MOC]]

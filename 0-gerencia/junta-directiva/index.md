@@ -23,9 +23,9 @@ sources: ["https://app.notion.com/p/0-1-Junta-Directiva-7149d7f2d9cc4430a76ec080
 
 ## Procesos relacionados
 
-- [Minuta](../../_templates/minuta.md)
-- [Política](../../_templates/politica.md)
-- [Procedimiento](../../_templates/procedimiento.md)
+- [[_templates/minuta|Minuta]]
+- [[_templates/politica|Política]]
+- [[_templates/procedimiento|Procedimiento]]
 
 
 > [[0-gerencia/_MOC]]

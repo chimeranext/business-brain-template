@@ -24,9 +24,9 @@ sources: ["https://app.notion.com/p/2-1-Aplicaciones-para-Usuarios-Finales-2461f
 
 ## Procesos relacionados
 
-- [Minuta](../../_templates/minuta.md)
-- [Política](../../_templates/politica.md)
-- [Procedimiento](../../_templates/procedimiento.md)
+- [[_templates/minuta|Minuta]]
+- [[_templates/politica|Política]]
+- [[_templates/procedimiento|Procedimiento]]
 
 
 > [[2-ingenieria-producto/_MOC]]

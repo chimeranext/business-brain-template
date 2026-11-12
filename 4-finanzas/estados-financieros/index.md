@@ -24,9 +24,9 @@ sources: ["https://app.notion.com/p/4-1-Estados-Financieros-618413ea84254705abb8
 
 ## Procesos relacionados
 
-- [Minuta](../../_templates/minuta.md)
-- [Política](../../_templates/politica.md)
-- [Procedimiento](../../_templates/procedimiento.md)
+- [[_templates/minuta|Minuta]]
+- [[_templates/politica|Política]]
+- [[_templates/procedimiento|Procedimiento]]
 
 
 > [[4-finanzas/_MOC]]

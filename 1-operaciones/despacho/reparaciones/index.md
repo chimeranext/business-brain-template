@@ -24,9 +24,9 @@ sources: ["https://app.notion.com/p/1-3-4-Reparaciones-9eab597dda3a409aad84a57df
 
 ## Procesos relacionados
 
-- [Minuta](../../../_templates/minuta.md)
-- [Política](../../../_templates/politica.md)
-- [Procedimiento](../../../_templates/procedimiento.md)
+- [[_templates/minuta|Minuta]]
+- [[_templates/politica|Política]]
+- [[_templates/procedimiento|Procedimiento]]
 
 
 > [[1-operaciones/_MOC]]

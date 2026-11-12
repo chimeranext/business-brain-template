@@ -22,9 +22,9 @@ sources: ["https://app.notion.com/p/0-3-Experimentaci-n-y-Prototipado-358afdb1c3
 
 ## Procesos relacionados
 
-- [Minuta](../../_templates/minuta.md)
-- [Política](../../_templates/politica.md)
-- [Procedimiento](../../_templates/procedimiento.md)
+- [[_templates/minuta|Minuta]]
+- [[_templates/politica|Política]]
+- [[_templates/procedimiento|Procedimiento]]
 
 
 > [[0-gerencia/_MOC]]

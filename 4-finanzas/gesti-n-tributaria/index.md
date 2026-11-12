@@ -24,9 +24,9 @@ sources: ["https://app.notion.com/p/4-3-Gesti-n-Tributaria-8b63c4203ee1490ab92df
 
 ## Procesos relacionados
 
-- [Minuta](../../_templates/minuta.md)
-- [Política](../../_templates/politica.md)
-- [Procedimiento](../../_templates/procedimiento.md)
+- [[_templates/minuta|Minuta]]
+- [[_templates/politica|Política]]
+- [[_templates/procedimiento|Procedimiento]]
 
 
 > [[4-finanzas/_MOC]]
