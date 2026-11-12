@@ -24,9 +24,9 @@ sources: ["https://app.notion.com/p/3-3-Satisfacci-n-del-Cliente-4a187a3080c0470
 
 ## Procesos relacionados
 
-- [Minuta](../../_templates/minuta.md)
-- [Política](../../_templates/politica.md)
-- [Procedimiento](../../_templates/procedimiento.md)
+- [[_templates/minuta|Minuta]]
+- [[_templates/politica|Política]]
+- [[_templates/procedimiento|Procedimiento]]
 
 
 > [[3-experiencia-cliente/_MOC]]

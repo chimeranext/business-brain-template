@@ -20,9 +20,9 @@ sources: ["https://app.notion.com/p/1-5-Talento-Humano-34e6acb27db443d08f67fb59e
 
 ## Procesos relacionados
 
-- [Minuta](../../_templates/minuta.md)
-- [Política](../../_templates/politica.md)
-- [Procedimiento](../../_templates/procedimiento.md)
+- [[_templates/minuta|Minuta]]
+- [[_templates/politica|Política]]
+- [[_templates/procedimiento|Procedimiento]]
 
 
 > [[1-operaciones/_MOC]]

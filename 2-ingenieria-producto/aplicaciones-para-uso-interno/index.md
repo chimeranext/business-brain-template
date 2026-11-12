@@ -24,9 +24,9 @@ sources: ["https://app.notion.com/p/2-4-Aplicaciones-para-Uso-Interno-d82f4e871e
 
 ## Procesos relacionados
 
-- [Minuta](../../_templates/minuta.md)
-- [Política](../../_templates/politica.md)
-- [Procedimiento](../../_templates/procedimiento.md)
+- [[_templates/minuta|Minuta]]
+- [[_templates/politica|Política]]
+- [[_templates/procedimiento|Procedimiento]]
 
 
 > [[2-ingenieria-producto/_MOC]]

@@ -5,200 +5,63 @@ type: moc
 unidad: transversal
 para: resource
 status: activo
-date: 2026-11-03
+date: 2026-11-11
 tags: [moc, index]
 ---
 
 # Business Brain — Índice
 
 > Mapa de contenido del vault. El agente lee esto PRIMERO.
+> Cada enlace apunta a un archivo que existe. Obsidian los resuelve como wikilinks.
+
+## Entregables que lee el cliente
+
+- [[plans/README|Plans]] — plan de gestión del proyecto y planes de riesgo.
+- [[projects/_MOC|Projects]] — requisitos y arquitectura de cada producto, en `projects/<slug>/`.
 
 ## Unidades
 
-- [[0-gerencia/_MOC]]
-- [[1-operaciones/_MOC]]
-- [[2-ingenieria-producto/_MOC]]
-- [[3-experiencia-cliente/_MOC]]
-- [[4-finanzas/_MOC]]
-- [[identidad-marca/_MOC]]
-- [[modelo-negocio/_MOC]]
-- [[_procedimientos/_MOC]]
-- [[_retros-minutas/_MOC]]
+- [[0-gerencia/_MOC|Gobernanza y Dirección — Mapa de Contenido]]
+- [[1-operaciones/_MOC|Operaciones y Cadena de Suministro — Mapa de Contenido]]
+- [[2-ingenieria-producto/_MOC|Tecnología e Informática — Mapa de Contenido]]
+- [[3-experiencia-cliente/_MOC|Comercial y Experiencia de Cliente — Mapa de Contenido]]
+- [[4-finanzas/_MOC|Finanzas y Contabilidad — Mapa de Contenido]]
+- [[projects/_MOC|Projects]]
 
 ## Notas
 
-- [[0-gerencia/Junta Directiva]] — Junta Directiva (area)
-- [[0-gerencia/Cumplimiento Legal]] — Cumplimiento Legal (area)
-- [[0-gerencia/Cumplimiento Legal/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[0-gerencia/Cumplimiento Legal/Políticas Cumplimiento Legal]] — Políticas Cumplimiento Legal (procedimiento)
-- [[0-gerencia/Cumplimiento Legal/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[0-gerencia/Cumplimiento Legal/Procedimientos Cumplimiento Legal]] — Procedimientos Cumplimiento Legal (procedimiento)
-- [[0-gerencia/Cumplimiento Legal/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[0-gerencia/Experimentación y Prototipado]] — Experimentación y Prototipado (area)
-- [[1-operaciones/Compras de Suministros]] — Compras de Suministros (area)
-- [[1-operaciones/Manufactura y Producción]] — Manufactura y Producción (area)
-- [[1-operaciones/Manufactura y Producción/Manufactura]] — Manufactura (area)
-- [[1-operaciones/Manufactura y Producción/Manufactura/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[1-operaciones/Manufactura y Producción/Manufactura/Políticas Manufactura]] — Políticas Manufactura (procedimiento)
-- [[1-operaciones/Manufactura y Producción/Manufactura/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[1-operaciones/Manufactura y Producción/Manufactura/Procedimientos Manufactura]] — Procedimientos Manufactura (procedimiento)
-- [[1-operaciones/Manufactura y Producción/Manufactura/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[1-operaciones/Manufactura y Producción/Producción]] — Producción (area)
-- [[1-operaciones/Manufactura y Producción/Producción/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[1-operaciones/Manufactura y Producción/Producción/Políticas Producción]] — Políticas Producción (procedimiento)
-- [[1-operaciones/Manufactura y Producción/Producción/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[1-operaciones/Manufactura y Producción/Producción/Procedimientos Producción]] — Procedimientos Producción (procedimiento)
-- [[1-operaciones/Manufactura y Producción/Producción/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[1-operaciones/Despacho]] — Despacho (area)
-- [[1-operaciones/Despacho/Inventario de Ventas]] — Inventario de Ventas (area)
-- [[1-operaciones/Despacho/Inventario de Ventas/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[1-operaciones/Despacho/Inventario de Ventas/Políticas Inventario de Ventas]] — Políticas Inventario de Ventas (procedimiento)
-- [[1-operaciones/Despacho/Inventario de Ventas/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[1-operaciones/Despacho/Inventario de Ventas/Procedimientos Inventario de Ventas]] — Procedimientos Inventario de Ventas (procedimiento)
-- [[1-operaciones/Despacho/Inventario de Ventas/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[1-operaciones/Despacho/Logística de Última Milla]] — Logística de Última Milla (area)
-- [[1-operaciones/Despacho/Logística de Última Milla/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[1-operaciones/Despacho/Logística de Última Milla/Políticas Última Milla]] — Políticas Última Milla (procedimiento)
-- [[1-operaciones/Despacho/Logística de Última Milla/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[1-operaciones/Despacho/Logística de Última Milla/Procedimientos Última Milla]] — Procedimientos Última Milla (procedimiento)
-- [[1-operaciones/Despacho/Logística de Última Milla/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[1-operaciones/Despacho/Instalación en Sitio]] — Instalación en Sitio (area)
-- [[1-operaciones/Despacho/Instalación en Sitio/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[1-operaciones/Despacho/Instalación en Sitio/Políticas Instalación]] — Políticas Instalación (procedimiento)
-- [[1-operaciones/Despacho/Instalación en Sitio/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[1-operaciones/Despacho/Instalación en Sitio/Procedimientos Instalación]] — Procedimientos Instalación (procedimiento)
-- [[1-operaciones/Despacho/Instalación en Sitio/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[1-operaciones/Despacho/Reparaciones]] — Reparaciones (area)
-- [[1-operaciones/Despacho/Reparaciones/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[1-operaciones/Despacho/Reparaciones/Políticas Reparaciones]] — Políticas Reparaciones (procedimiento)
-- [[1-operaciones/Despacho/Reparaciones/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[1-operaciones/Despacho/Reparaciones/Procedimientos Reparaciones]] — Procedimientos Reparaciones (procedimiento)
-- [[1-operaciones/Despacho/Reparaciones/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[1-operaciones/Despacho/Devoluciones]] — Devoluciones (area)
-- [[1-operaciones/Despacho/Devoluciones/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[1-operaciones/Despacho/Devoluciones/Políticas Devoluciones]] — Políticas Devoluciones (procedimiento)
-- [[1-operaciones/Despacho/Devoluciones/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[1-operaciones/Despacho/Devoluciones/Procedimientos Devoluciones]] — Procedimientos Devoluciones (procedimiento)
-- [[1-operaciones/Despacho/Devoluciones/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[1-operaciones/Servicios de Consultoría]] — Servicios de Consultoría (area)
-- [[1-operaciones/Servicios de Consultoría/Consultoría 1]] — Consultoría 1 (area)
-- [[1-operaciones/Servicios de Consultoría/Consultoría 1/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[1-operaciones/Servicios de Consultoría/Consultoría 1/Políticas Consultoría 1]] — Políticas Consultoría 1 (procedimiento)
-- [[1-operaciones/Servicios de Consultoría/Consultoría 1/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[1-operaciones/Servicios de Consultoría/Consultoría 1/Procedimientos Consultoría 1]] — Procedimientos Consultoría 1 (procedimiento)
-- [[1-operaciones/Servicios de Consultoría/Consultoría 1/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[1-operaciones/Servicios de Consultoría/Consultoría 2]] — Consultoría 2 (area)
-- [[1-operaciones/Servicios de Consultoría/Consultoría 2/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[1-operaciones/Servicios de Consultoría/Consultoría 2/Políticas Consultoría 2]] — Políticas Consultoría 2 (procedimiento)
-- [[1-operaciones/Servicios de Consultoría/Consultoría 2/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[1-operaciones/Servicios de Consultoría/Consultoría 2/Procedimientos Consultoría 2]] — Procedimientos Consultoría 2 (procedimiento)
-- [[1-operaciones/Servicios de Consultoría/Consultoría 2/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[1-operaciones/Servicios de Consultoría/Consultoría 3]] — Consultoría 3 (area)
-- [[1-operaciones/Servicios de Consultoría/Consultoría 3/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[1-operaciones/Servicios de Consultoría/Consultoría 3/Políticas Consultoría 3]] — Políticas Consultoría 3 (procedimiento)
-- [[1-operaciones/Servicios de Consultoría/Consultoría 3/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[1-operaciones/Servicios de Consultoría/Consultoría 3/Procedimientos Consultoría 3]] — Procedimientos Consultoría 3 (procedimiento)
-- [[1-operaciones/Servicios de Consultoría/Consultoría 3/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[1-operaciones/Talento Humano]] — Talento Humano (area)
-- [[1-operaciones/Gestión Integral de Residuos Sólidos]] — Gestión Integral de Residuos Sólidos (area)
-- [[1-operaciones/Gestión Integral de Residuos Sólidos/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[1-operaciones/Gestión Integral de Residuos Sólidos/Políticas Plantilla 1]] — Políticas Plantilla 1 (procedimiento)
-- [[1-operaciones/Gestión Integral de Residuos Sólidos/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[1-operaciones/Gestión Integral de Residuos Sólidos/Procedimientos Plantilla 1]] — Procedimientos Plantilla 1 (procedimiento)
-- [[1-operaciones/Gestión Integral de Residuos Sólidos/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[2-ingenieria-producto/Aplicaciones para Usuarios Finales]] — Aplicaciones para Usuarios Finales (area)
-- [[2-ingenieria-producto/Aplicaciones para Usuarios Finales/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[2-ingenieria-producto/Aplicaciones para Usuarios Finales/Políticas Plantilla 1]] — Políticas Plantilla 1 (procedimiento)
-- [[2-ingenieria-producto/Aplicaciones para Usuarios Finales/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[2-ingenieria-producto/Aplicaciones para Usuarios Finales/Procedimientos Plantilla 1]] — Procedimientos Plantilla 1 (procedimiento)
-- [[2-ingenieria-producto/Aplicaciones para Usuarios Finales/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[2-ingenieria-producto/Arquitectura Cloud]] — Arquitectura Cloud (area)
-- [[2-ingenieria-producto/Arquitectura Cloud/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[2-ingenieria-producto/Arquitectura Cloud/Políticas Plantilla 2]] — Políticas Plantilla 2 (procedimiento)
-- [[2-ingenieria-producto/Arquitectura Cloud/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[2-ingenieria-producto/Arquitectura Cloud/Procedimientos Plantilla 2]] — Procedimientos Plantilla 2 (procedimiento)
-- [[2-ingenieria-producto/Arquitectura Cloud/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[2-ingenieria-producto/Administración de Informática]] — Administración de Informática (area)
-- [[2-ingenieria-producto/Administración de Informática/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[2-ingenieria-producto/Administración de Informática/Políticas Plantilla 2]] — Políticas Plantilla 2 (procedimiento)
-- [[2-ingenieria-producto/Administración de Informática/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[2-ingenieria-producto/Administración de Informática/Procedimientos Plantilla 2]] — Procedimientos Plantilla 2 (procedimiento)
-- [[2-ingenieria-producto/Administración de Informática/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[2-ingenieria-producto/Aplicaciones para Uso Interno]] — Aplicaciones para Uso Interno (area)
-- [[2-ingenieria-producto/Aplicaciones para Uso Interno/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[2-ingenieria-producto/Aplicaciones para Uso Interno/Políticas Plantilla 2]] — Políticas Plantilla 2 (procedimiento)
-- [[2-ingenieria-producto/Aplicaciones para Uso Interno/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[2-ingenieria-producto/Aplicaciones para Uso Interno/Procedimientos Plantilla 2]] — Procedimientos Plantilla 2 (procedimiento)
-- [[2-ingenieria-producto/Aplicaciones para Uso Interno/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[3-experiencia-cliente/Marketing y Comunicación]] — Marketing y Comunicación (area)
-- [[3-experiencia-cliente/Marketing y Comunicación/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[3-experiencia-cliente/Marketing y Comunicación/Políticas Plantilla 2]] — Políticas Plantilla 2 (procedimiento)
-- [[3-experiencia-cliente/Marketing y Comunicación/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[3-experiencia-cliente/Marketing y Comunicación/Procedimientos Plantilla 2]] — Procedimientos Plantilla 2 (procedimiento)
-- [[3-experiencia-cliente/Marketing y Comunicación/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[3-experiencia-cliente/Ventas]] — Ventas (area)
-- [[3-experiencia-cliente/Ventas/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[3-experiencia-cliente/Ventas/Políticas Plantilla 2]] — Políticas Plantilla 2 (procedimiento)
-- [[3-experiencia-cliente/Ventas/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[3-experiencia-cliente/Ventas/Procedimientos Plantilla 2]] — Procedimientos Plantilla 2 (procedimiento)
-- [[3-experiencia-cliente/Ventas/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[3-experiencia-cliente/Satisfacción del Cliente]] — Satisfacción del Cliente (area)
-- [[3-experiencia-cliente/Satisfacción del Cliente/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[3-experiencia-cliente/Satisfacción del Cliente/Políticas Plantilla 2]] — Políticas Plantilla 2 (procedimiento)
-- [[3-experiencia-cliente/Satisfacción del Cliente/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[3-experiencia-cliente/Satisfacción del Cliente/Procedimientos Plantilla 2]] — Procedimientos Plantilla 2 (procedimiento)
-- [[3-experiencia-cliente/Satisfacción del Cliente/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[identidad-marca/Identidad Visual]] — Identidad Visual (area)
-- [[identidad-marca/Identidad Visual/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[identidad-marca/Identidad Visual/Políticas Plantilla 2]] — Políticas Plantilla 2 (procedimiento)
-- [[identidad-marca/Identidad Visual/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[identidad-marca/Identidad Visual/Procedimientos Plantilla 2]] — Procedimientos Plantilla 2 (procedimiento)
-- [[identidad-marca/Identidad Visual/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[identidad-marca/Identidad Auditiva]] — Identidad Auditiva (area)
-- [[identidad-marca/Identidad Auditiva/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[identidad-marca/Identidad Auditiva/Políticas Plantilla 2]] — Políticas Plantilla 2 (procedimiento)
-- [[identidad-marca/Identidad Auditiva/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[identidad-marca/Identidad Auditiva/Procedimientos Plantilla 2]] — Procedimientos Plantilla 2 (procedimiento)
-- [[identidad-marca/Identidad Auditiva/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[identidad-marca/Identidad Lingüística]] — Identidad Lingüística (area)
-- [[identidad-marca/Identidad Lingüística/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[identidad-marca/Identidad Lingüística/Políticas Plantilla 2]] — Políticas Plantilla 2 (procedimiento)
-- [[identidad-marca/Identidad Lingüística/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[identidad-marca/Identidad Lingüística/Procedimientos Plantilla 2]] — Procedimientos Plantilla 2 (procedimiento)
-- [[identidad-marca/Identidad Lingüística/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[identidad-marca/Identidad Táctil]] — Identidad Táctil (area)
-- [[identidad-marca/Identidad Táctil/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[identidad-marca/Identidad Táctil/Políticas Plantilla 2]] — Políticas Plantilla 2 (procedimiento)
-- [[identidad-marca/Identidad Táctil/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[identidad-marca/Identidad Táctil/Procedimientos Plantilla 2]] — Procedimientos Plantilla 2 (procedimiento)
-- [[identidad-marca/Identidad Táctil/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[identidad-marca/Identidad Olfativa]] — Identidad Olfativa (area)
-- [[identidad-marca/Identidad Olfativa/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[identidad-marca/Identidad Olfativa/Políticas Plantilla 2]] — Políticas Plantilla 2 (procedimiento)
-- [[identidad-marca/Identidad Olfativa/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[identidad-marca/Identidad Olfativa/Procedimientos Plantilla 2]] — Procedimientos Plantilla 2 (procedimiento)
-- [[identidad-marca/Identidad Olfativa/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[identidad-marca/Identidad Gustativa]] — Identidad Gustativa (area)
-- [[identidad-marca/Identidad Gustativa/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[identidad-marca/Identidad Gustativa/Políticas Plantilla 2]] — Políticas Plantilla 2 (procedimiento)
-- [[identidad-marca/Identidad Gustativa/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[identidad-marca/Identidad Gustativa/Procedimientos Plantilla 2]] — Procedimientos Plantilla 2 (procedimiento)
-- [[identidad-marca/Identidad Gustativa/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[4-finanzas/Estados Financieros]] — Estados Financieros (area)
-- [[4-finanzas/Estados Financieros/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[4-finanzas/Estados Financieros/Políticas Plantilla 2]] — Políticas Plantilla 2 (procedimiento)
-- [[4-finanzas/Estados Financieros/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[4-finanzas/Estados Financieros/Procedimientos Plantilla 2]] — Procedimientos Plantilla 2 (procedimiento)
-- [[4-finanzas/Estados Financieros/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[4-finanzas/Contabilidad]] — Contabilidad (area)
-- [[4-finanzas/Contabilidad/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[4-finanzas/Contabilidad/Políticas Plantilla 2]] — Políticas Plantilla 2 (procedimiento)
-- [[4-finanzas/Contabilidad/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[4-finanzas/Contabilidad/Procedimientos Plantilla 2]] — Procedimientos Plantilla 2 (procedimiento)
-- [[4-finanzas/Contabilidad/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
-- [[4-finanzas/Gestión Tributaria]] — Gestión Tributaria (area)
-- [[4-finanzas/Gestión Tributaria/Plantilla de Minuta]] — Plantilla de Minuta (minuta)
-- [[4-finanzas/Gestión Tributaria/Políticas Plantilla 2]] — Políticas Plantilla 2 (procedimiento)
-- [[4-finanzas/Gestión Tributaria/Políticas/Política Plantilla]] — Política Plantilla (procedimiento)
-- [[4-finanzas/Gestión Tributaria/Procedimientos Plantilla 2]] — Procedimientos Plantilla 2 (procedimiento)
-- [[4-finanzas/Gestión Tributaria/Procedimientos/Procedimiento Plantilla]] — Procedimiento Plantilla (procedimiento)
+- [[0-gerencia/cumplimiento-legal/index|Cumplimiento Legal]]
+- [[0-gerencia/experimentaci-n-y-prototipado/index|Experimentación y Prototipado]]
+- [[0-gerencia/junta-directiva/index|Junta Directiva]]
+- [[1-operaciones/compras-de-suministros/index|Compras de Suministros]]
+- [[1-operaciones/despacho/devoluciones/index|Devoluciones]]
+- [[1-operaciones/despacho/index|Despacho]]
+- [[1-operaciones/despacho/instalaci-n-en-sitio/index|Instalación en Sitio]]
+- [[1-operaciones/despacho/inventario-de-ventas/index|Inventario de Ventas]]
+- [[1-operaciones/despacho/log-stica-de-ltima-milla/index|Logística de Última Milla]]
+- [[1-operaciones/despacho/reparaciones/index|Reparaciones]]
+- [[1-operaciones/gesti-n-integral-de-residuos-s-lidos/index|Gestión Integral de Residuos Sólidos]]
+- [[1-operaciones/manufactura-y-producci-n/index|Manufactura y Producción]]
+- [[1-operaciones/manufactura-y-producci-n/manufactura/index|Manufactura]]
+- [[1-operaciones/manufactura-y-producci-n/producci-n/index|Producción]]
+- [[1-operaciones/servicios-de-consultor-a/consultor-a-1/index|Consultoría 1]]
+- [[1-operaciones/servicios-de-consultor-a/consultor-a-2/index|Consultoría 2]]
+- [[1-operaciones/servicios-de-consultor-a/consultor-a-3/index|Consultoría 3]]
+- [[1-operaciones/servicios-de-consultor-a/index|Servicios de Consultoría]]
+- [[1-operaciones/talento-humano/index|Talento Humano]]
+- [[2-ingenieria-producto/administraci-n-de-inform-tica/index|Administración de Informática]]
+- [[2-ingenieria-producto/aplicaciones-para-uso-interno/index|Aplicaciones para Uso Interno]]
+- [[2-ingenieria-producto/aplicaciones-para-usuarios-finales/index|Aplicaciones para Usuarios Finales]]
+- [[2-ingenieria-producto/arquitectura-cloud/index|Arquitectura Cloud]]
+- [[3-experiencia-cliente/identidad-auditiva/index|Identidad Auditiva]]
+- [[3-experiencia-cliente/identidad-gustativa/index|Identidad Gustativa]]
+- [[3-experiencia-cliente/identidad-ling-stica/index|Identidad Lingüística]]
+- [[3-experiencia-cliente/identidad-olfativa/index|Identidad Olfativa]]
+- [[3-experiencia-cliente/identidad-t-ctil/index|Identidad Táctil]]
+- [[3-experiencia-cliente/identidad-visual/index|Identidad Visual]]
+- [[3-experiencia-cliente/marketing-y-comunicaci-n/index|Marketing y Comunicación]]
+- [[3-experiencia-cliente/satisfacci-n-del-cliente/index|Satisfacción del Cliente]]
+- [[3-experiencia-cliente/ventas/index|Ventas]]
+- [[4-finanzas/contabilidad/index|Contabilidad]]
+- [[4-finanzas/estados-financieros/index|Estados Financieros]]
+- [[4-finanzas/gesti-n-tributaria/index|Gestión Tributaria]]

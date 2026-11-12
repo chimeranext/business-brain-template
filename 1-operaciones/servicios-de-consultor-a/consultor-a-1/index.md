@@ -24,9 +24,9 @@ sources: ["https://app.notion.com/p/1-4-1-Consultor-a-1-159483c0b940441b80709cec
 
 ## Procesos relacionados
 
-- [Minuta](../../../_templates/minuta.md)
-- [Política](../../../_templates/politica.md)
-- [Procedimiento](../../../_templates/procedimiento.md)
+- [[_templates/minuta|Minuta]]
+- [[_templates/politica|Política]]
+- [[_templates/procedimiento|Procedimiento]]
 
 
 > [[1-operaciones/_MOC]]

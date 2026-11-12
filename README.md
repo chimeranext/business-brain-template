@@ -16,6 +16,8 @@ Capture → Organize → Distill → Express. Notas atómicas (`Zettelkasten`), 
 | `3-experiencia-cliente/` | Comercial, marketing, cliente |
 | `identidad-marca/` | Las 6 identidades de marca |
 | `4-finanzas/` | Finanzas y contabilidad |
+| `plans/` | Planes de gestión que lee el cliente (SPMP y riesgos) |
+| `projects/` | Cada producto: requisitos y arquitectura en `projects/<slug>/` |
 | `_capitulos/` | Síntesis por capítulos (MOCs cross-unit) |
 | `_templates/` | Plantillas de notas |
 | `_procedimientos/` | SOPs versionados |
